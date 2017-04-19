@@ -24,6 +24,10 @@ github_username:  bialylis
 # Build settings
 markdown: kramdown
 theme: minima
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
 gems:
   - jekyll-feed
 exclude:
