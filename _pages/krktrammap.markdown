@@ -14,7 +14,7 @@ Android: [Za darmo w Google Play](https://play.google.com/store/apps/details?id=
 
 ZIKIT [udostępnił](http://www.ttss.krakow.pl/internetservice/) portal gdzie można się dostać do danych o współrzędnych tramwajów, postanowiłem zrobić z tego mapę w formie aplikacji mobilnej. Na razie funkcjonalność jest uboga - pokazywane są lokalizacje dużej większości tramwajów (brakuje starych modeli bez nadajników) pokolorowane według lini.
 
-W niedalekiej przyszłości planuję dodać przede wszystkim znaczniki przystanków na mapie oraz przewidywany czas dotarcia na przystanek i listę tramwajów dla każdego przystanku (podobnie jak to jest wyświetlane na fizycznych tablicach na przystankach). 
+W niedalekiej przyszłości planuję dodać przede wszystkim znaczniki przystanków na mapie, przewidywany czas dotarcia na przystanek i listę tramwajów dla każdego przystanku (podobnie jak to jest wyświetlane na fizycznych tablicach na przystankach). 
 
 
 Moje inne aplikacje można znaleźć [tutaj](https://itunes.apple.com/pl/developer/idea-studio/id482136470)
