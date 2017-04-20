@@ -17,5 +17,5 @@ ZIKIT [udostępnił](http://www.ttss.krakow.pl/internetservice/) portal gdzie mo
 Planuję dodać przede wszystkim zaznaczenie na mapie przystanków oraz przewidywany czas dotarcia na przystanek i listę tramwajów dla każdego przystanku (podobnie jak to jest wyświetlane na fizycznych tablicach na przystankach). 
 
 
-![Screenshot 1]({{ site.url }}/assets/1.jpg)
-![Screenshot 2]({{ site.url }}/assets/2.jpg)
+![Screenshot 1]({{ site.url }}/assets/1.png)
+![Screenshot 2]({{ site.url }}/assets/2.png)
