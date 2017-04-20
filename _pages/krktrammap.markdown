@@ -6,7 +6,7 @@ categories: apps
 permalink: /TramMap/
 ---
 
-W skrócie - Apka pokazuje aktualne współrzędne krakowskich tramwajów.
+W skrócie - Mobilna aplikacja pokazuje aktualne współrzędne krakowskich tramwajów na żywo.
 
 iOS: [Za darmo w AppStore](https://itunes.apple.com/us/app/kraków-tramwaje-na-żywo/id1228162066?l=pl&ls=1&mt=8)
 
