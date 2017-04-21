@@ -10,7 +10,7 @@ W skrócie - Mobilna aplikacja pokazująca na żywo aktualne położenie krakows
 
 iOS: [Za darmo w AppStore](https://itunes.apple.com/us/app/kraków-tramwaje-na-żywo/id1228162066?l=pl&ls=1&mt=8)
 
-Android: [Za darmo w Google Play](https://play.google.com/store/apps/details?id=knapczyk.krktrammap)
+Android: (będzie za chwile)
 
 ZIKIT [udostępnił](http://www.ttss.krakow.pl/internetservice/) portal gdzie można się dostać do danych o współrzędnych tramwajów, postanowiłem zrobić z tego mapę w formie aplikacji mobilnej. Na razie funkcjonalność jest uboga - pokazywane są lokalizacje dużej większości tramwajów (brakuje starych modeli bez nadajników) pokolorowane według lini.
 
